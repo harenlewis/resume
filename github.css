@@ -1,0 +1,44 @@
+#main
+{
+  background-color: black;
+}
+
+
+.navbar-brand 
+{    
+    color: white;
+    font-style: italic;
+    font-size: 23px;
+}
+
+.nav.navbar-nav.navbar-right li a
+{
+	color: white;
+}
+
+#img
+{
+	padding: 69px;
+ 	height:800px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url('hr.jpg');
+	margin-top: 50px;
+}
+.text-center
+{
+	font-style: italic;
+}
+#avat
+{
+	background-color: white;
+	color: black;
+
+}
+
+#content1
+{
+	color: rgb(119, 116, 116);
+	text-align: center;
+	padding: 22px;
+}
