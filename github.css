@@ -20,10 +20,12 @@
 {
 	padding: 69px;
  	height:800px;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-image: url('hr.jpg');
+
+
+	background: url('hr.jpg') fixed no-repeat;
+		background-size: cover;
 	margin-top: 50px;
+	
 }
 .text-center
 {
@@ -41,4 +43,36 @@
 	color: rgb(119, 116, 116);
 	text-align: center;
 	padding: 22px;
+}
+
+
+}
+h2
+{
+	color: rgba(33, 24, 24, 0.68);
+	font-size: 26px;
+}	
+
+.fa
+{
+	color:rgba(33, 24, 24, 0.68);
+}
+.row
+{
+	padding: 41px;
+}
+#img1
+{
+
+    background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url('r.jpg');
+	height: 800px;
+}
+
+
+.carousel
+{
+	margin:-41px;
+	margin-top: 5px;
 }
